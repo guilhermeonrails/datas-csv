@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "nome": "Livros & Letras",
+    "cidade": "Recife",
+    "estado": "PE",
+    "data_abertura": "2012-09-25",
+    "faturamento_mensal": 22754.98
+  },
+  {
+    "id": 2,
+    "nome": "Mundo Literário",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "data_abertura": "2020-06-07",
+    "faturamento_mensal": 50113.94
+  },
+  {
+    "id": 3,
+    "nome": "Estante Mágica",
+    "cidade": "Teresina",
+    "estado": "PI",
+    "data_abertura": null,
+    "faturamento_mensal": 59226.81
+  },
+  {
+    "id": 4,
+    "nome": "Página Viva",
+    "cidade": "Manaus",
+    "estado": "AM",
+    "data_abertura": null,
+    "faturamento_mensal": null
+  },
+  {
+    "id": 5,
+    "nome": "Livraria do Saber",
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "data_abertura": null,
+    "faturamento_mensal": null
+  },
+  {
+    "id": 6,
+    "nome": "Folha Literária",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "data_abertura": "2010-05-05",
+    "faturamento_mensal": 36558.08
+  },
+  {
+    "id": 7,
+    "nome": "Universo dos Livros",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "data_abertura": null,
+    "faturamento_mensal": 27701.24
+  },
+  {
+    "id": 8,
+    "nome": "Livros & Companhia",
+    "cidade": "Cuiabá",
+    "estado": "MT",
+    "data_abertura": null,
+    "faturamento_mensal": null
+  },
+  {
+    "id": 9,
+    "nome": "Encanto Literário",
+    "cidade": "Cuiabá",
+    "estado": "MT",
+    "data_abertura": "2010-07-27",
+    "faturamento_mensal": 28142.68
+  },
+  {
+    "id": 10,
+    "nome": "A Página",
+    "cidade": "Belém",
+    "estado": "PA",
+    "data_abertura": "2021-04-28",
+    "faturamento_mensal": 53268.51
+  },
+  {
+    "id": 11,
+    "nome": "Capítulo 1",
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "data_abertura": "2010-10-14",
+    "faturamento_mensal": null
+  },
+  {
+    "id": 12,
+    "nome": "Estórias & Cia",
+    "cidade": "São Luís",
+    "estado": "MA",
+    "data_abertura": null,
+    "faturamento_mensal": 58575.26
+  },
+  {
+    "id": 13,
+    "nome": "Livraria Horizonte",
+    "cidade": "Natal",
+    "estado": "RN",
+    "data_abertura": "2010-06-04",
+    "faturamento_mensal": null
+  },
+  {
+    "id": 14,
+    "nome": "Verso & Prosa",
+    "cidade": "Teresina",
+    "estado": "PI",
+    "data_abertura": null,
+    "faturamento_mensal": 53705.26
+  },
+  {
+    "id": 15,
+    "nome": "Clube do Livro",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "data_abertura": "2012-07-03",
+    "faturamento_mensal": 46886.51
+  },
+  {
+    "id": 16,
+    "nome": "LiterArte",
+    "cidade": "Natal",
+    "estado": "RN",
+    "data_abertura": "2017-03-30",
+    "faturamento_mensal": 45012.17
+  },
+  {
+    "id": 17,
+    "nome": "Página a Página",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "data_abertura": null,
+    "faturamento_mensal": 43684.27
+  },
+  {
+    "id": 18,
+    "nome": "Leitura Livre",
+    "cidade": "Maceió",
+    "estado": "AL",
+    "data_abertura": null,
+    "faturamento_mensal": null
+  },
+  {
+    "id": 19,
+    "nome": "Sabedoria Popular",
+    "cidade": "Natal",
+    "estado": "RN",
+    "data_abertura": "2011-12-03",
+    "faturamento_mensal": 58850.78
+  },
+  {
+    "id": 20,
+    "nome": "Poema & Papel",
+    "cidade": "Goiânia",
+    "estado": "GO",
+    "data_abertura": "2012-03-08",
+    "faturamento_mensal": 25696.59
+  },
+  {
+    "id": 21,
+    "nome": "Cantinho da Leitura",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "data_abertura": null,
+    "faturamento_mensal": 42886.19
+  },
+  {
+    "id": 22,
+    "nome": "Biblioteca Urbana",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "data_abertura": "2022-06-24",
+    "faturamento_mensal": 36799.1
+  },
+  {
+    "id": 23,
+    "nome": "Café & Letras",
+    "cidade": "Manaus",
+    "estado": "AM",
+    "data_abertura": "2018-08-19",
+    "faturamento_mensal": 20222.61
+  },
+  {
+    "id": 24,
+    "nome": "Mundo da Palavra",
+    "cidade": "Campo Grande",
+    "estado": "MS",
+    "data_abertura": "2020-05-09",
+    "faturamento_mensal": 25273.53
+  },
+  {
+    "id": 25,
+    "nome": "Ponto de Leitura",
+    "cidade": "Natal",
+    "estado": "RN",
+    "data_abertura": "2020-09-15",
+    "faturamento_mensal": 24223.04
+  },
+  {
+    "id": 26,
+    "nome": "O Contador de Histórias",
+    "cidade": "Recife",
+    "estado": "PE",
+    "data_abertura": null,
+    "faturamento_mensal": 24395.55
+  },
+  {
+    "id": 27,
+    "nome": "Livros do Sul",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "data_abertura": null,
+    "faturamento_mensal": 28336.9
+  },
+  {
+    "id": 28,
+    "nome": "Entre Livros",
+    "cidade": "Goiânia",
+    "estado": "GO",
+    "data_abertura": "2022-07-13",
+    "faturamento_mensal": 35121.82
+  },
+  {
+    "id": 29,
+    "nome": "Casa das Letras",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "data_abertura": "2021-09-07",
+    "faturamento_mensal": 46389.68
+  },
+  {
+    "id": 30,
+    "nome": "Livraria Central",
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "data_abertura": "2016-09-01",
+    "faturamento_mensal": 22472.23
+  },
+  {
+    "id": 31,
+    "nome": "Alquimia Literária",
+    "cidade": "Belém",
+    "estado": "PA",
+    "data_abertura": "2014-07-31",
+    "faturamento_mensal": 22946.49
+  },
+  {
+    "id": 32,
+    "nome": "Roda dos Livros",
+    "cidade": "Campo Grande",
+    "estado": "MS",
+    "data_abertura": "2011-12-23",
+    "faturamento_mensal": 55462.5
+  },
+  {
+    "id": 33,
+    "nome": "Livros & Ideias",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "data_abertura": null,
+    "faturamento_mensal": 55505.45
+  },
+  {
+    "id": 34,
+    "nome": "Porta do Saber",
+    "cidade": "Cuiabá",
+    "estado": "MT",
+    "data_abertura": "2020-01-16",
+    "faturamento_mensal": 59385.01
+  },
+  {
+    "id": 35,
+    "nome": "Texto & Contexto",
+    "cidade": "Salvador",
+    "estado": "BA",
+    "data_abertura": "2017-04-02",
+    "faturamento_mensal": 25778.99
+  },
+  {
+    "id": 36,
+    "nome": "Palavra Escrita",
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "data_abertura": "2016-06-18",
+    "faturamento_mensal": 51097.77
+  },
+  {
+    "id": 37,
+    "nome": "Era uma Vez",
+    "cidade": "Cuiabá",
+    "estado": "MT",
+    "data_abertura": "2017-11-03",
+    "faturamento_mensal": 52285.89
+  },
+  {
+    "id": 38,
+    "nome": "Sabores & Letras",
+    "cidade": "Teresina",
+    "estado": "PI",
+    "data_abertura": null,
+    "faturamento_mensal": 30986.3
+  },
+  {
+    "id": 39,
+    "nome": "Refúgio Literário",
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "data_abertura": "2017-07-08",
+    "faturamento_mensal": 30565.78
+  },
+  {
+    "id": 40,
+    "nome": "Livros da Vila",
+    "cidade": "Manaus",
+    "estado": "AM",
+    "data_abertura": "2011-12-17",
+    "faturamento_mensal": 40781.37
+  },
+  {
+    "id": 41,
+    "nome": "Leitura em Cena",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "data_abertura": "2017-11-25",
+    "faturamento_mensal": 20523.24
+  },
+  {
+    "id": 42,
+    "nome": "Avenida das Letras",
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "data_abertura": null,
+    "faturamento_mensal": null
+  },
+  {
+    "id": 43,
+    "nome": "Livros do Norte",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "data_abertura": null,
+    "faturamento_mensal": 35925.31
+  },
+  {
+    "id": 44,
+    "nome": "Páginas e Sonhos",
+    "cidade": "Campo Grande",
+    "estado": "MS",
+    "data_abertura": "2021-12-27",
+    "faturamento_mensal": 29435.46
+  },
+  {
+    "id": 45,
+    "nome": "Raízes Literárias",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "data_abertura": "2017-12-16",
+    "faturamento_mensal": 32976.07
+  },
+  {
+    "id": 46,
+    "nome": "Livros da Serra",
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "data_abertura": "2021-08-16",
+    "faturamento_mensal": 56685.65
+  },
+  {
+    "id": 47,
+    "nome": "Encaderna",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "data_abertura": "2015-04-09",
+    "faturamento_mensal": 58567.15
+  },
+  {
+    "id": 48,
+    "nome": "Letra por Letra",
+    "cidade": "Cuiabá",
+    "estado": "MT",
+    "data_abertura": "2020-02-20",
+    "faturamento_mensal": 44159.1
+  },
+  {
+    "id": 49,
+    "nome": "Caminho do Livro",
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "data_abertura": null,
+    "faturamento_mensal": 40430.05
+  },
+  {
+    "id": 50,
+    "nome": "Cultura em Páginas",
+    "cidade": "Campo Grande",
+    "estado": "MS",
+    "data_abertura": "2010-06-03",
+    "faturamento_mensal": 21769.39
+  }
+]
